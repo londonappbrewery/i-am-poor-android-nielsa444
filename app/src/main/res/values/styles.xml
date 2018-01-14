@@ -8,4 +8,5 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <string name="Coal.png">Lump of Coal</string>
 </resources>
